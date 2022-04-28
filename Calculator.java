@@ -14,6 +14,7 @@ public class Calculator {
 		System.out.println("La resta de"+a+" - " +b+" es: "+sub(a,b));
 		System.out.println("La multiplicacion de"+a+" x " +b+" es: "+mul(a,b));
 		System.out.println("La divison de "+a+" / "+b+" es: "+div(a,b));
+		System.out.println("El modulo de "+a+" % "+b+" es: "+mod(a,b));
 	}
 	
 	//METODOS
@@ -39,6 +40,8 @@ public class Calculator {
 		return division;
 	}
 	public static int mod(int a, int b){
-		return 0;
+		int modulo;
+		modulo = a%b;
+		return modulo;
 	}
 }
