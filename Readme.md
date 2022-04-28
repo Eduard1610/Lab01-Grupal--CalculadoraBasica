@@ -4,7 +4,7 @@
 <ol>
     <li>Eduardo Franshua Durand Obando.</li>
     <li>Jordy Rolando Tejada Lazo</li>
-    <li>Integrante 3</li>
+    <li>Michael Steve Hurtado Bejarano</li>
 </ol>
 
 <h3>II. Objetivos:</h3>
@@ -25,7 +25,7 @@
         <ul>
             <li>Eduardo Franshua Durand Obando.</li>
             <li>Jordy Rolando Tejada Lazo.</li>
-            <li>Integrante 3.</li>
+            <li>Michael Steve Hurtado Bejarano</li>
         </ul>
     </li>
     <li>Un integrante del grupo debera crear el proyecto principal, con el nombre de su grupo, con la plantilla base:
