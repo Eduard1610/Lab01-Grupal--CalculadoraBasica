@@ -11,8 +11,8 @@ public class Calculator {
 		b =sc.nextInt();
 
 		System.out.println("La suma de "+a+" + " +b+" es: "+add(a,b));
-		System.out.println("La resta de"+a+" - " +b+" es: "+sub(a,b));
-		System.out.println("La multiplicacion de"+a+" x " +b+" es: "+mul(a,b));
+		System.out.println("La resta de "+a+" - " +b+" es: "+sub(a,b));
+		System.out.println("La multiplicacion de "+a+" x " +b+" es: "+mul(a,b));
 		System.out.println("La divison de "+a+" / "+b+" es: "+div(a,b));
 		System.out.println("El modulo de "+a+" % "+b+" es: "+mod(a,b));
 	}
