@@ -13,6 +13,7 @@ public class Calculator {
 		System.out.println("La suma de "+a+" + " +b+" es: "+add(a,b));
 		System.out.println("La resta de"+a+" - " +b+" es: "+sub(a,b));
 		System.out.println("La multiplicacion de"+a+" x " +b+" es: "+mul(a,b));
+		System.out.println("La divison de "+a+" / "+b+" es: "+div(a,b));
 	}
 	
 	//METODOS
@@ -33,7 +34,9 @@ public class Calculator {
 		return multiplicacion;
 	}
 	public static int div(int a, int b){
-		return 0;
+		int division;
+		division = a/b;
+		return division;
 	}
 	public static int mod(int a, int b){
 		return 0;
