@@ -50,4 +50,29 @@
             </pre>   
         </ul>
     </li>
+    <li>
+	Comparta el proyecto con sus compañeros de grupo y asigne uno o dos
+	métodos distintos a cada integrante del grupo.
+	<ul>
+	    <li>ROL 1 : Creador del repositorio, plantilla y la primera función "add" (Eduardo Franshua Durand Obando)</li>
+	    <li>ROL 2 : Subir Plantilla, Editarla y añadir las funciones "sub" y "mul" (Jordy Rolando Tejada Lazo)</li>
+	    <li>rol3</li>
+	</ul>
+    </li>
+
+    <li>
+	Los integrantes del grupo deberán hacer clone, push y pull según corresponda,
+	de modo que el repositorio contenga la solución final.
+    </li>
+    <li>Enlace: 
+	<li><a href="https://github.com/Eduard1610/PW2-Lab01-Grupal-CalculadoraBasica/invitations">https://github.com/Eduard1610/PW2-Lab01-Grupal-CalculadoraBasica/invitations</a></li>
+    </li>
+    <li>
+	Reportar al profesor que logró culminar la tarea. La tarea debe ser compartida
+	con el profesor (CarloCorralesD, rescobedoq) y entregada usando el mismo url
+	que se usó para clonar el repositorio.
+    </li>
+    <li>Enlace: 
+	<li><a href="https://github.com/Eduard1610/PW2-Lab01-Grupal-CalculadoraBasica.git">https://github.com/Eduard1610/PW2-Lab01-Grupal-CalculadoraBasica.git</a></li>
+    </li>
 </ol>
